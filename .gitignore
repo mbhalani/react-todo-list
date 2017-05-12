@@ -1,0 +1,26 @@
+.DS_Store
+.Trashes
+.Spotlight-V100
+*.zip
+*.gz
+*.log
+X-temp*
+
+## floobits ##
+.floo
+.flooignore
+
+## NPM ##
+node_modules/
+bower_components/
+
+
+## Compiled files ##
+compiled/
+
+## API keys ##
+src/config/youtube.js
+compiled/config/youtube.js
+
+config.js
+
